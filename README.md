@@ -4,4 +4,4 @@ The purpose of this project was to create a website with links to several pages,
 
 Layoutit and Bootstrap were used to help with the design and layout of the pages.  
 
-<a href="/Web-Design-Challenge/WebVisualizations/index.html">Click here to access my Web Design Challenge</a>
+<a href="carlymckelvy.github.io/Web-Design-Challenge/WebVisualizations/index.html">Click here to access my Web Design Challenge</a>
